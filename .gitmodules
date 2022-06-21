@@ -1,0 +1,3 @@
+[submodule "catppuccin"]
+	path = catppuccin
+	url = git@github.com:catppuccin/wallpapers.git
