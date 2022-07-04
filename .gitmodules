@@ -1,3 +1,6 @@
 [submodule "catppuccin"]
 	path = catppuccin
 	url = git@github.com:catppuccin/wallpapers.git
+[submodule "Anime-Girls-Holding-Programming-Books"]
+	path = Anime-Girls-Holding-Programming-Books
+	url = https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books.git
